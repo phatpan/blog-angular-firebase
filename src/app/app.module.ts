@@ -8,11 +8,11 @@ import { AngularFireAuthModule } from 'angularfire4/auth';
 import { AppComponent } from './app.component';
 
 export const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  storageBucket: "",
-  messagingSenderId: ""
+  apiKey: "AIzaSyDmUnBCollNIj6NgKYUyP1NWEA2VDzoBpM",
+  authDomain: "blog-f57be.firebaseapp.com",
+  databaseURL: "https://blog-f57be.firebaseio.com",
+  storageBucket: "blog-f57be.appspot.com",
+  messagingSenderId: "171529233712"
 };
 
 @NgModule({
